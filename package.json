@@ -1,7 +1,7 @@
 {
   "name": "task-tracker",
   "version": "1.0.0",
-  "description": "Basic HTTP serer that allows you to manage a tasks",
+  "description": "Basic HTTP server that allows you to manage tasks",
   "license": "ISC",
   "author": "BaileyKH",
   "type": "module",

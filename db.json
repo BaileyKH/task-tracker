@@ -1,12 +1,6 @@
 {
   "tasks": [
     {
-      "id": 1751986670147,
-      "name": "Start express course",
-      "complete": false,
-      "createAt": "2025-07-08T14:57:50.147Z"
-    },
-    {
       "id": 1751986768239,
       "name": "Walk the dog",
       "complete": false,
